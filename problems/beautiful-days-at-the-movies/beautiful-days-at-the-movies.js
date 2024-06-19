@@ -18,7 +18,7 @@ function beautifulDays(i, j, k) {
     }
   });
 
-  console.log(amountOfBeautifulDays);
+  return amountOfBeautifulDays;
 }
 
 beautifulDays(20, 23, 6);
